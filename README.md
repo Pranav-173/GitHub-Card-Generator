@@ -51,10 +51,13 @@ github-card-generator/
 │   ├── requirements.txt
 │   ├── static/
 │   │   └── cards/
-│   └── .env
+│   └── .venv
 │
 ├── frontend/
+│   ├── Dockerfile
+│   ├── index.html
 │
+├── .env.example
 ├── docker-compose.yml
 └── README.md
 ```
